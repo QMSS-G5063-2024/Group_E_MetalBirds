@@ -5,6 +5,9 @@ Description: In this project, we plan to examine the patterns of flights across 
 
 ### Members:
 Abigail Newbury (amn2217@cumc.columbia.edu)
+
 Andrey Zaznaev (az2732@cumc.columbia.edu)
+
 Hsi-Yu Chen (hc3448@cumc.columbia.edu)
+
 Aparajita Kashyap (ak4885@cumc.columbia.edu) 
